@@ -9,6 +9,20 @@
         <dex dex="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-428d611be00a4c193722b527f912144214e8bee4.jar" />
     </item>
     <item
+        jar="C:\Users\Justin\School\SyncUs2\ParseStarterProject\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="C:\Users\Justin\School\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-55198478be15819a395c7303ca9de2135f9a8bbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\School\SyncUs2\ParseStarterProject\libs\ParseCrashReporting-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2bfbcce5ae61bdd10676df8e89710693c1256024">
+        <dex dex="C:\Users\Justin\School\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-78974bcb18faf38afe635b440ac43093e1dfaa44.jar" />
+    </item>
+    <item
         jar="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\libs\Parse-1.9.1.jar"
         jumboMode="false"
         revision="22.0.0"
