@@ -1,0 +1,4 @@
+C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\build\intermediates\classes\debug
+C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-428d611be00a4c193722b527f912144214e8bee4.jar
+C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-298c53638150ea8c0ca8d7014c178218fa12faad.jar
+C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-9d302eb9583c3502f9cd12d6d21935518845e88c.jar
