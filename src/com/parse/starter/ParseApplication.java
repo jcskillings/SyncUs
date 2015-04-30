@@ -6,6 +6,7 @@ import com.parse.Parse;
 import com.parse.ParseACL;
 import com.parse.ParseCrashReporting;
 import com.parse.ParseException;
+import com.parse.ParseObject;
 import com.parse.ParseUser;
 import com.parse.SignUpCallback;
 
@@ -20,7 +21,8 @@ public class ParseApplication extends Application {
 
     // Enable Local Datastore.
     Parse.enableLocalDatastore(this);
-
+      // add Todo subclass
+      ParseObject.registerSubclass(Todo.class);
     // Add your initialization code here
     Parse.initialize(this, "S853VeY0ISR12ujFxD6vAN2CL1x1yzRDCSXSOtq1", "g4XHz7D1WubgNX8EUD9EouHdVHqgbGTmi8DKaq75");
 

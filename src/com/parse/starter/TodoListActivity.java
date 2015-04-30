@@ -13,6 +13,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -37,6 +38,7 @@ public class TodoListActivity extends Activity {
 
     // Adapter for the Todos Parse Query
     private ParseQueryAdapter<Todo> todoListAdapter;
+
     private LayoutInflater inflater;
 
     // For showing empty and non-empty todo views
@@ -49,6 +51,12 @@ public class TodoListActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_todo_list);
 
+        // Set up the views
+        todoListView = (ListView) findViewById(R.id.todo_list_view);
+        noTodosView = (LinearLayout) findViewById(R.id.no_todos_view);
+        todoListView.setEmptyView(noTodosView);
+        loggedInInfoView = (TextView) findViewById(R.id.loggedin_info);
+
         // Set up the Parse query to use in the adapter
         ParseQueryAdapter.QueryFactory<Todo> factory = new ParseQueryAdapter.QueryFactory<Todo>() {
             public ParseQuery<Todo> create() {
@@ -58,31 +66,24 @@ public class TodoListActivity extends Activity {
                 return query;
             }
         };
+        // Set up the adapter
+        inflater = (LayoutInflater) this
+                .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+        todoListAdapter = new ToDoListAdapter(this, factory);
+
+        // Attach the query adapter to the view
+        ListView todoListView = (ListView) findViewById(R.id.todo_list_view);
+        todoListView.setAdapter(todoListAdapter);
+
+        todoListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view,
+                                    int position, long id) {
+                Todo todo = todoListAdapter.getItem(position);
+                openEditView(todo);
+            }
+        });
     }
-
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_todo_list, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
-        }
-
-        return super.onOptionsItemSelected(item);
-    }
-    @Override
     protected void onResume() {
         super.onResume();
         // Check if we have a real user
@@ -93,11 +94,13 @@ public class TodoListActivity extends Activity {
             updateLoggedInInfo();
         }
     }
+
     private void updateLoggedInInfo() {
         if (!ParseAnonymousUtils.isLinked(ParseUser.getCurrentUser())) {
             ParseUser currentUser = ParseUser.getCurrentUser();
-            loggedInInfoView.setText(getString(R.string.logged_in,
-                    currentUser.getString("username")));
+            //Toast.makeText(this, currentUser.getString("username"), Toast.LENGTH_SHORT);
+
+            loggedInInfoView.setText(getString(R.string.logged_in, currentUser.getString("username")));
         } else {
             loggedInInfoView.setText(getString(R.string.not_logged_in));
         }
@@ -130,6 +133,54 @@ public class TodoListActivity extends Activity {
 
         }
     }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu_todo_list, menu);
+        return true;
+    }
+
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == R.id.action_new) {
+            // Make sure there's a valid user, anonymous
+            // or regular
+            if (ParseUser.getCurrentUser() != null) {
+                Toast.makeText(this, ParseUser.getCurrentUser().getUsername(), Toast.LENGTH_SHORT);
+                startActivityForResult(new Intent(this, NewTodoActivity.class),
+                        EDIT_ACTIVITY_CODE);
+            }
+        }
+
+        if (item.getItemId() == R.id.action_sync) {
+            syncTodosToParse();
+        }
+
+        if (item.getItemId() == R.id.action_logout) {
+            // Log out the current user
+            ParseUser.logOut();
+            // Create a new anonymous user
+            //ParseAnonymousUtils.logIn(null);
+            // Update the logged in label info
+            updateLoggedInInfo();
+            // Clear the view
+            todoListAdapter.clear();
+            // Unpin all the current objects
+            ParseObject
+                    .unpinAllInBackground(ParseApplication.TODO_GROUP_NAME);
+        }
+
+
+        return super.onOptionsItemSelected(item);
+    }
+
+
+
+
+
+
     private void syncTodosToParse() {
         // We could use saveEventually here, but we want to have some UI
         // around whether or not the draft has been saved to Parse
@@ -204,55 +255,66 @@ public class TodoListActivity extends Activity {
                     Toast.LENGTH_LONG).show();
         }
     }
-        private void loadFromParse() {
-            ParseQuery<Todo> query = Todo.getQuery();
-            query.whereEqualTo("author", ParseUser.getCurrentUser());
-            query.findInBackground(new FindCallback<Todo>() {
-                public void done(List<Todo> todos, ParseException e) {
-                    if (e == null) {
-                        ParseObject.pinAllInBackground((List<Todo>) todos,
-                                new SaveCallback() {
-                                    public void done(ParseException e) {
-                                        if (e == null) {
-                                            if (!isFinishing()) {
-                                                todoListAdapter.loadObjects();
-                                            }
-                                        } else {
-                                            Log.i("TodoListActivity",
-                                                    "Error pinning todos: "
-                                                            + e.getMessage());
+    private void loadFromParse() {
+        Toast.makeText(this, "Loading From Parse", Toast.LENGTH_SHORT);
+        ParseQuery<Todo> query = Todo.getQuery();
+        query.whereEqualTo("whoCreated", ParseUser.getCurrentUser());
+        query.findInBackground(new FindCallback<Todo>() {
+            public void done(List<Todo> todos, ParseException e) {
+                if (e == null) {
+                    ParseObject.pinAllInBackground((List<Todo>) todos,
+                            new SaveCallback() {
+                                public void done(ParseException e) {
+                                    if (e == null) {
+                                        if (!isFinishing()) {
+                                            todoListAdapter.loadObjects();
                                         }
+                                    } else {
+                                        Log.i("TodoListActivity",
+                                                "Error pinning todos: "
+                                                        + e.getMessage());
                                     }
-                                });
-                    } else {
-                        Log.i("TodoListActivity",
-                                "loadFromParse: Error finding pinned todos: "
-                                        + e.getMessage());
-                    }
+                                }
+                            });
+                } else {
+                    Log.i("TodoListActivity",
+                            "loadFromParse: Error finding pinned todos: "
+                                    + e.getMessage());
                 }
-            });
-        }
-    //@Override
-    public View getItemView(Todo todo, View view, ViewGroup parent) {
-        ViewHolder holder;
-        if (view == null) {
-            view = inflater.inflate(R.layout.list_item_todo, parent, false);
-            holder = new ViewHolder();
-            holder.todoTitle = (TextView) view
-                    .findViewById(R.id.todo_title);
-            view.setTag(holder);
-        } else {
-            holder = (ViewHolder) view.getTag();
-        }
-        TextView todoTitle = holder.todoTitle;
-        todoTitle.setText(todo.getTitle());
-        if (todo.isDraft()) {
-            todoTitle.setTypeface(null, Typeface.ITALIC);
-        } else {
-            todoTitle.setTypeface(null, Typeface.NORMAL);
-        }
-        return view;
+            }
+        });
     }
+
+    private class ToDoListAdapter extends ParseQueryAdapter<Todo> {
+
+        public ToDoListAdapter(Context context,
+                               ParseQueryAdapter.QueryFactory<Todo> queryFactory) {
+            super(context, queryFactory);
+        }
+
+        @Override
+        public View getItemView(Todo todo, View view, ViewGroup parent) {
+            ViewHolder holder;
+            if (view == null) {
+                view = inflater.inflate(R.layout.list_item_todo, parent, false);
+                holder = new ViewHolder();
+                holder.todoTitle = (TextView) view
+                        .findViewById(R.id.todo_title);
+                view.setTag(holder);
+            } else {
+                holder = (ViewHolder) view.getTag();
+            }
+            TextView todoTitle = holder.todoTitle;
+            todoTitle.setText(todo.getTitle());
+            if (todo.isDraft()) {
+                todoTitle.setTypeface(null, Typeface.ITALIC);
+            } else {
+                todoTitle.setTypeface(null, Typeface.NORMAL);
+            }
+            return view;
+        }
+    }
+
     private static class ViewHolder {
         TextView todoTitle;
     }
