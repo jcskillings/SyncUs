@@ -21,7 +21,7 @@ public class DispatchActivity extends Activity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     // Check if there is current user info
-    if (ParseUser.getCurrentUser() != null ) {
+    if (ParseUser.getCurrentUser() != null) {
         Context context = getApplicationContext();
         CharSequence text = ParseUser.getCurrentUser().getString("username");
         int duration = Toast.LENGTH_SHORT;
@@ -31,7 +31,7 @@ public class DispatchActivity extends Activity {
             startActivity(new Intent(this, WelcomeActivity.class));
         } else {
             // Start an intent for the logged in activity
-            startActivity(new Intent(this, TodoListActivity.class));
+            startActivity(new Intent(this, FriendActivity.class));
         }
     } else {
       // Start and intent for the logged out activity

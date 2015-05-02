@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_login">Log In</string>
     <string name="action_logout">Log Out</string>
@@ -18,7 +18,7 @@
     <string name="character_count_placeholder">0/140</string>
     <string name="delete">Delete</string>
     <string name="edit_todos">Edit</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings_activity_login.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings_activity_login.xml -->
     <eat-comment/>
     <string name="error_blank_password">enter a password</string>
     <string name="error_blank_username">enter a username</string>
@@ -26,7 +26,7 @@
     <string name="error_intro">"Please "</string>
     <string name="error_join">", and "</string>
     <string name="error_mismatched_passwords">enter the same password twice</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings.xml -->
     <eat-comment/>
     <string name="hello">Hello World, ParseStarterProjectActivity!</string>
     <string name="hello_world">Hello world!</string>
@@ -42,44 +42,44 @@
     <string name="post">Post</string>
     <string name="post_out_of_range">Can\'t view post! Get closer.</string>
     <string name="powered_by">Powered by</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings_activity_login.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings_activity_login.xml -->
     <eat-comment/>
     <string name="progress_login">Logging you in…</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings.xml -->
     <eat-comment/>
     <string name="progress_post">Posting…</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings_activity_login.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings_activity_login.xml -->
     <eat-comment/>
     <string name="progress_signup">Signing you up…</string>
     <string name="prompt_password">Password</string>
     <string name="prompt_password_again">Password Again</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings.xml -->
     <eat-comment/>
     <string name="prompt_post">Post</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings_activity_login.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings_activity_login.xml -->
     <eat-comment/>
     <string name="prompt_username">Username</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings.xml -->
     <eat-comment/>
     <string name="save">Save</string>
     <string name="search_distance">Search Distance</string>
     <string name="settings_distance_format">%d feet</string>
     <string name="signup">Sign up</string>
     <string name="slogan">The world is your wall</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings_activity_login.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings_activity_login.xml -->
     <eat-comment/>
     <string name="title_activity_login">Log in</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Settings</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings_activity_login.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings_activity_login.xml -->
     <eat-comment/>
     <string name="title_activity_signup">Sign up</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/strings.xml -->
     <eat-comment/>
     <string name="title_activity_todo_list">TodoListActivity</string>
     <string name="todo_prompt">Enter todo details:</string>
-    <!-- From: file:/C:/Users/Justin/School/Parse-Starter-Project-JCS/ParseStarterProject/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Owner/Desktop/SyncUs2/ParseStarterProject/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

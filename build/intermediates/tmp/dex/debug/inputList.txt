@@ -1,4 +1,4 @@
-C:\Users\Justin\School\SyncUs2\ParseStarterProject\build\intermediates\classes\debug
-C:\Users\Justin\School\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-428d611be00a4c193722b527f912144214e8bee4.jar
-C:\Users\Justin\School\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-78974bcb18faf38afe635b440ac43093e1dfaa44.jar
-C:\Users\Justin\School\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-55198478be15819a395c7303ca9de2135f9a8bbb.jar
+C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\classes\debug
+C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-dd8a4e263efbb2e8f78b31d8e4027b90a20ca95b.jar
+C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-5d2ce87c69c54bc408e6eac3f3c96002433faf54.jar
+C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-2d924dd933f2ab7258f22b8bb0ff24d9869535dc.jar
