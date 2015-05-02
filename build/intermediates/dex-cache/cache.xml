@@ -2,39 +2,46 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jar="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\libs\ParseCrashReporting-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2bfbcce5ae61bdd10676df8e89710693c1256024">
+        <dex dex="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-5d2ce87c69c54bc408e6eac3f3c96002433faf54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-428d611be00a4c193722b527f912144214e8bee4.jar" />
+        <dex dex="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-dd8a4e263efbb2e8f78b31d8e4027b90a20ca95b.jar" />
     </item>
     <item
-        jar="C:\Users\Justin\School\SyncUs2\ParseStarterProject\libs\Parse-1.9.1.jar"
+        jar="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-2d924dd933f2ab7258f22b8bb0ff24d9869535dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\libs\Parse-1.9.1.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
-        <dex dex="C:\Users\Justin\School\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-55198478be15819a395c7303ca9de2135f9a8bbb.jar" />
+        <dex dex="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-2d924dd933f2ab7258f22b8bb0ff24d9869535dc.jar" />
     </item>
     <item
-        jar="C:\Users\Justin\School\SyncUs2\ParseStarterProject\libs\ParseCrashReporting-1.9.1.jar"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
         jumboMode="false"
-        revision="22.0.0"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-dd8a4e263efbb2e8f78b31d8e4027b90a20ca95b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\libs\ParseCrashReporting-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
         sha1="2bfbcce5ae61bdd10676df8e89710693c1256024">
-        <dex dex="C:\Users\Justin\School\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-78974bcb18faf38afe635b440ac43093e1dfaa44.jar" />
-    </item>
-    <item
-        jar="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\libs\Parse-1.9.1.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
-        <dex dex="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-9d302eb9583c3502f9cd12d6d21935518845e88c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\libs\ParseCrashReporting-1.9.1.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="2bfbcce5ae61bdd10676df8e89710693c1256024">
-        <dex dex="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-298c53638150ea8c0ca8d7014c178218fa12faad.jar" />
+        <dex dex="C:\Users\Owner\Desktop\SyncUs2\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-5d2ce87c69c54bc408e6eac3f3c96002433faf54.jar" />
     </item>
 
 </items>
