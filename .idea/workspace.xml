@@ -14,326 +14,40 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="WARN" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="INFO" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.parse.starter" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e755997e-2e00-4795-b0f7-152b1f98e2b9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/DispatchActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/LoginActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/LoginActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/LoginActivity$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/LoginActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/NewTodoActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/NewTodoActivity$2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/NewTodoActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/NewTodoActivity$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/NewTodoActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/Parse-1.9.1-9d302eb9583c3502f9cd12d6d21935518845e88c.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/ParseApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.1-298c53638150ea8c0ca8d7014c178218fa12faad.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/outputs/apk/ParseStarterProject-debug-unaligned.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/outputs/apk/ParseStarterProject-debug.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/ParseStarterProjectActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/Pencil_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/Pencil_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/Pencil_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/Pencil_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/Plus_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/Plus_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/Plus_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/Plus_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/R$menu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/SignUpActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/SignUpActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/SignUpActivity$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/SignUpActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/Todo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/TodoListActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/TodoListActivity$2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/TodoListActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/TodoListActivity$3$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/TodoListActivity$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/TodoListActivity$ViewHolder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/TodoListActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/WelcomeActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/WelcomeActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/parse/starter/WelcomeActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/resources/background.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/resources/background.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/resources/background.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/resources/background.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-428d611be00a4c193722b527f912144214e8bee4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bolts-android-1.2.0-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bolts-android-1.2.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/dex/debug/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-hdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-ldpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-mdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-xhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-hdpi-v4/pencil_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-ldpi-v4/pencil_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-mdpi-v4/pencil_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-xhdpi-v4/pencil_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-mdpi-v4/pencil_36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/pencil_36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-hdpi-v4/pencil_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-xhdpi-v4/pencil_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/pencil_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/pencil_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-hdpi-v4/plus_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-ldpi-v4/plus_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-mdpi-v4/plus_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-xhdpi-v4/plus_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-mdpi-v4/plus_36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/plus_36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-hdpi-v4/plus_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/drawable-xhdpi-v4/plus_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/plus_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/plus_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug-test.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/synchronize_50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/resources/tab.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/resources/tab.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/resources/tab.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/resources/tab.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/resources/titlebar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/resources/titlebar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/resources/titlebar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/resources/titlebar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/resources/titlebar_end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/resources/titlebar_end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/resources/titlebar_end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/resources/titlebar_end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/manifests/test/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/parse/starter/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/test/debug/com/parse/starter/test/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ConfigCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ConfigCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/CountCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/CountCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/DeleteCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/DeleteCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/parse/starter/DispatchActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/FindCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/FindCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/FunctionCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/FunctionCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/GetCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/GetCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/GetDataCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/GetDataCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/LocationCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/LocationCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/LogInCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/LogInCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/LogOutCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/LogOutCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/parse/starter/LoginActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/parse/starter/NewTodoActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1.jar.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/Parse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/Parse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseACL.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseACL.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseAnalytics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseAnalytics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseAnonymousUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseAnonymousUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/parse/starter/ParseApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseClassName.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseClassName.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseCloud.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseCloud.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseConfig.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseConfig.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1.jar.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/com/parse/ParseCrashReporting.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/com/parse/class-use/ParseCrashReporting.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/com/parse/ParseFacebookUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/com/parse/class-use/ParseFacebookUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/com/parse/ParseFacebookUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/com/parse/class-use/ParseFacebookUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1.jar.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1.jar.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseFile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseFile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseGeoPoint.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseGeoPoint.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseImageView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseImageView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseInstallation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseInstallation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseObject.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseObject.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParsePush.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParsePush.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParsePushBroadcastReceiver.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParsePushBroadcastReceiver.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseQuery.CachePolicy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseQuery.CachePolicy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseQuery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseQuery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseQueryAdapter.OnQueryLoadListener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseQueryAdapter.OnQueryLoadListener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseQueryAdapter.QueryFactory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseQueryAdapter.QueryFactory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseQueryAdapter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseQueryAdapter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseRelation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseRelation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseRole.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseRole.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseSession.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseSession.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/parse/starter/ParseStarterProjectActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseTwitterUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseTwitterUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ParseUser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ParseUser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/ProgressCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/ProgressCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/PushService.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/PushService.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/source/r/debug/com/parse/starter/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/RefreshCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/RefreshCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/RequestPasswordResetCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/RequestPasswordResetCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/SaveCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/SaveCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/SendCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/SendCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/parse/starter/SignUpActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/SignUpCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/class-use/SignUpCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/parse/starter/Todo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/parse/starter/TodoListActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/parse/starter/WelcomeActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/layout/activity_login.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_login.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/layout/activity_new_todo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_new_todo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/layout/activity_post.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_post.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/layout/activity_signup.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_signup.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/layout/activity_todo_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_todo_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/layout/activity_welcome.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_welcome.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bolts-android-1.2.0.jar.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental/aidl/debug/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental/aidl/test/debug/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/index-all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/index-all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/index-all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/index-all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/tmp/dex/debug/inputList.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/layout/list_item_todo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/list_item_todo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/outputs/apk/manifest-merger-debug-report.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/menu/menu_todo_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menu/menu_todo_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeAssets/test/debug/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeResources/test/debug/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/com/parse/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/com/parse/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/com/parse/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/com/parse/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/com/parse/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/com/parse/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/com/parse/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/com/parse/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/com/parse/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/com/parse/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/com/parse/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/com/parse/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/com/parse/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/serialized-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings_activity_login.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-v11/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-v14/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/Parse-1.9.1-javadoc/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseCrashReporting-1.9.1-javadoc/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV3-1.9.1-javadoc/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ParseFacebookUtilsV4-1.9.1-javadoc/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/third_party_licenses.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/values-v11/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/values-v14/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/values-w820dp-v13/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject" afterPath="$PROJECT_DIR$/ParseStarterProject" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/add_list_50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/info_50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/pencil_50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/plus_50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/syncuslogo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/syncuslogo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/synqus_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/synqus_text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewListActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ShowListsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/SwipeDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/SyncList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/layout/activity_new_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/layout/activity_show_lists.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/menu/menu_new_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/menu/menu_show_lists.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/res/layout/sync_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/AndroidManifest.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/DispatchActivity.java" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/DispatchActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/LoginActivity.java" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/LoginActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewTodoActivity.java" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewTodoActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseApplication.java" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/source/r/debug/com/parse/starter/R.java" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/source/r/debug/com/parse/starter/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/Todo.java" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/Todo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/TodoListActivity.java" afterPath="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/TodoListActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/res/layout/activity_todo_list.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/res/layout/activity_todo_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/res/layout/list_item_todo.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/res/layout/list_item_todo.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/res/menu/menu_todo_list.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/res/menu/menu_todo_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseStarterProject/res/values/strings.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Parse-Starter-Project-1.9.1.iws" />
@@ -345,6 +59,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -357,34 +76,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ParseApplication.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.6981134" vertical-offset="0" max-vertical-offset="969">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/LoginActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="959" max-vertical-offset="1479">
-              <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Todo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/Todo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="295" max-vertical-offset="816">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="713" max-vertical-offset="1190">
+              <caret line="94" column="59" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
               <folding>
-                <element signature="e#1994#1995#0" expanded="true" />
-                <element signature="e#2048#2049#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#setUuidString#0;class#Todo#0" expanded="false" />
+                <element signature="e#1927#1928#0" expanded="true" />
+                <element signature="e#1978#1979#0" expanded="true" />
+                <element signature="e#2031#2032#0" expanded="true" />
+                <element signature="e#2076#2077#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1428">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+              <folding>
+                <element signature="e#945#963#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_item_todo.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/list_item_todo.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.703704" vertical-offset="0" max-vertical-offset="391">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_todo_list.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/activity_todo_list.xml">
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="1156">
+              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+              <folding>
+                <element signature="e#223#258#0" expanded="true" />
+                <element signature="e#284#319#0" expanded="true" />
+                <element signature="e#343#376#0" expanded="true" />
+                <element signature="e#403#436#0" expanded="true" />
+                <element signature="e#737#760#0" expanded="true" />
+                <element signature="e#1509#1527#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewTodoActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewTodoActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.714285" vertical-offset="577" max-vertical-offset="2567">
+              <caret line="73" column="65" selection-start-line="73" selection-start-column="65" selection-end-line="73" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1850#2086#0" expanded="true" />
+                <element signature="e#2075#2076#0" expanded="true" />
+                <element signature="e#2512#2795#0" expanded="true" />
+                <element signature="e#2788#2789#0" expanded="true" />
+                <element signature="e#2836#3781#0" expanded="true" />
+                <element signature="e#3369#3769#0" expanded="true" />
+                <element signature="e#3759#3760#0" expanded="true" />
+                <element signature="e#3775#3776#0" expanded="true" />
+                <element signature="e#3819#4080#0" expanded="true" />
+                <element signature="e#4074#4075#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -393,8 +163,8 @@
       <file leaf-file-name="DispatchActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/DispatchActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="867">
-              <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -402,95 +172,67 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewTodoActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewTodoActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
-              <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TodoListActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TodoListActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/TodoListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.321428" vertical-offset="0" max-vertical-offset="2159">
-              <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.81352836" vertical-offset="1714" max-vertical-offset="7480">
+              <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
               <folding>
-                <element signature="e#1932#2233#0" expanded="true" />
-                <element signature="e#2222#2223#0" expanded="true" />
-                <element signature="e#2658#2973#0" expanded="true" />
-                <element signature="e#2962#2963#0" expanded="true" />
-                <element signature="method#onResume#0;class#TodoListActivity#0" expanded="false" />
-                <element signature="method#updateLoggedInInfo#0;class#TodoListActivity#0" expanded="false" />
-                <element signature="e#3623#3687#0" expanded="true" />
-                <element signature="e#3744#3777#0" expanded="true" />
-                <element signature="method#openEditView#0;class#TodoListActivity#0" expanded="false" />
-                <element signature="method#onActivityResult#0;class#TodoListActivity#0" expanded="false" />
-                <element signature="method#onOptionsItemSelected#0;class#TodoListActivity#0" expanded="false" />
-                <element signature="method#syncTodosToParse#0;class#TodoListActivity#0" expanded="false" />
-                <element signature="e#7201#8863#0" expanded="true" />
-                <element signature="e#7633#8529#0" expanded="true" />
-                <element signature="e#8493#8494#0" expanded="true" />
-                <element signature="e#8844#8845#0" expanded="true" />
-                <element signature="method#loadFromParse#0;class#TodoListActivity#0" expanded="false" />
-                <element signature="e#10144#11295#0" expanded="true" />
-                <element signature="e#10370#11051#0" expanded="true" />
-                <element signature="e#11020#11021#0" expanded="true" />
-                <element signature="e#11284#11285#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2688#3172#0" expanded="true" />
+                <element signature="e#3156#3157#0" expanded="true" />
+                <element signature="e#3661#3972#0" expanded="true" />
+                <element signature="e#3961#3962#0" expanded="true" />
+                <element signature="e#4518#5162#0" expanded="true" />
+                <element signature="e#5151#5152#0" expanded="true" />
+                <element signature="e#5738#6389#0" expanded="true" />
+                <element signature="e#6373#6374#0" expanded="true" />
+                <element signature="e#6815#6858#0" expanded="true" />
+                <element signature="e#6916#6949#0" expanded="true" />
+                <element signature="e#11164#12886#0" expanded="true" />
+                <element signature="e#11655#12552#0" expanded="true" />
+                <element signature="e#12516#12517#0" expanded="true" />
+                <element signature="e#12867#12868#0" expanded="true" />
+                <element signature="e#14649#15262#0" expanded="true" />
+                <element signature="e#15251#15252#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/build.gradle">
+      <file leaf-file-name="SwipeDetector.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/SwipeDetector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.52" vertical-offset="0" max-vertical-offset="884">
-              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
+            <state vertical-scroll-proportion="0.0" vertical-offset="579" max-vertical-offset="1360">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="119">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.48" vertical-offset="0" max-vertical-offset="969">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_todo_list.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/activity_todo_list.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.444445" vertical-offset="0" max-vertical-offset="833">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding>
-                <element signature="e#223#258#0" expanded="true" />
-                <element signature="e#284#319#0" expanded="true" />
-                <element signature="e#343#376#0" expanded="true" />
-                <element signature="e#403#436#0" expanded="true" />
-                <element signature="e#737#760#0" expanded="true" />
-                <element signature="e#1507#1525#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -502,7 +244,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ParseStarterProject" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -1656,16 +1398,27 @@
         <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/WelcomeActivity.java" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/SignUpActivity.java" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/MainActivity.java" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewTodoActivity.java" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/res/menu/menu_todo_list.xml" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseApplication.java" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/DispatchActivity.java" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/res/layout/list_item_todo.xml" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/res/layout/activity_todo_list.xml" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/TodoListActivity.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/List.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/DispatchActivity.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/res/layout/activity_show_lists.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/res/menu/menu_todo_list.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/res/menu/menu_show_lists.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/res/layout/activity_new_list.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/res/layout/list_item_todo.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseApplication.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/res/layout/sync_list.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewListActivity.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/SyncList.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewTodoActivity.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ShowListsActivity.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/res/layout/activity_todo_list.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/Todo.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/SwipeDetector.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/TodoListActivity.java" />
       </list>
     </option>
   </component>
@@ -1742,7 +1495,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SyncUs2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SyncUs2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="ParseStarterProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SyncUs2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SyncUs2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ParseStarterProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="starter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1771,11 +1560,11 @@
       <recent name="com.parse.starter" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Justin\School\SyncUs2\ParseStarterProject\res\drawable-hdpi" />
       <recent name="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\res" />
       <recent name="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\res\layout" />
       <recent name="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\res\values" />
       <recent name="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\src\com\parse\starter" />
-      <recent name="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\res\drawable-xhdpi" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Justin\School\Parse-Starter-Project-JCS\ParseStarterProject\res\values" />
@@ -1784,6 +1573,9 @@
     </key>
     <key name="android.template.parentActivityClass">
       <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.parse.starter" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.ParseStarterProject">
@@ -1904,7 +1696,7 @@
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -1991,29 +1783,59 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23444444" sideWeight="0.19349681" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2782516" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5127932" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33222222" sideWeight="0.49946696" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50333333" sideWeight="0.8065032" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14" sideWeight="0.49946696" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44111112" sideWeight="0.79477614" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5011111" sideWeight="0.21162046" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18603411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2" sideWeight="0.66364604" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23444444" sideWeight="0.19349681" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934132" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47444445" sideWeight="0.49946696" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2782516" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5127932" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1411111" sideWeight="0.49946696" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25777778" sideWeight="0.8065032" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5011111" sideWeight="0.21162046" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18603411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -2042,106 +1864,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/TodoListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1666" max-vertical-offset="4556">
-          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-          <folding>
-            <element signature="e#1932#2233#0" expanded="true" />
-            <element signature="e#2222#2223#0" expanded="true" />
-            <element signature="e#2658#2973#0" expanded="true" />
-            <element signature="e#2962#2963#0" expanded="true" />
-            <element signature="method#onResume#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#updateLoggedInInfo#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="e#3623#3687#0" expanded="true" />
-            <element signature="e#3744#3777#0" expanded="true" />
-            <element signature="method#openEditView#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#syncTodosToParse#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="e#7201#8863#0" expanded="true" />
-            <element signature="e#7633#8529#0" expanded="true" />
-            <element signature="e#8493#8494#0" expanded="true" />
-            <element signature="e#8844#8845#0" expanded="true" />
-            <element signature="method#loadFromParse#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="e#10144#11295#0" expanded="true" />
-            <element signature="e#10370#11051#0" expanded="true" />
-            <element signature="e#11020#11021#0" expanded="true" />
-            <element signature="e#11284#11285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/DispatchActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="748">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewTodoActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1921">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="453" max-vertical-offset="850">
-          <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/WelcomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/SignUpActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="2176">
-          <caret line="102" column="31" selection-start-line="102" selection-start-column="31" selection-end-line="102" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="884" max-vertical-offset="1071">
-          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1292">
-          <caret line="59" column="35" selection-start-line="42" selection-start-column="34" selection-end-line="59" selection-end-column="35" />
-          <folding>
-            <element signature="e#1106#1128#0" expanded="true" />
-            <element signature="e#1810#1840#0" expanded="true" />
-            <element signature="e#2153#2171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="918">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="544">
@@ -2164,7 +1886,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1921">
           <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1850#2086#0" expanded="true" />
+            <element signature="e#2075#2076#0" expanded="true" />
+            <element signature="e#2512#2795#0" expanded="true" />
+            <element signature="e#2788#2789#0" expanded="true" />
+            <element signature="e#2836#3781#0" expanded="true" />
+            <element signature="e#3369#3769#0" expanded="true" />
+            <element signature="e#3759#3760#0" expanded="true" />
+            <element signature="e#3775#3776#0" expanded="true" />
+            <element signature="e#3819#4080#0" expanded="true" />
+            <element signature="e#4074#4075#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2191,27 +1925,23 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4556">
           <caret line="232" column="15" selection-start-line="232" selection-start-column="15" selection-end-line="232" selection-end-column="15" />
           <folding>
-            <element signature="e#1932#2233#0" expanded="true" />
-            <element signature="e#2222#2223#0" expanded="true" />
-            <element signature="e#2658#2973#0" expanded="true" />
-            <element signature="e#2962#2963#0" expanded="true" />
-            <element signature="method#onResume#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#updateLoggedInInfo#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="e#3623#3687#0" expanded="true" />
-            <element signature="e#3744#3777#0" expanded="true" />
-            <element signature="method#openEditView#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#syncTodosToParse#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="e#7201#8863#0" expanded="true" />
-            <element signature="e#7633#8529#0" expanded="true" />
-            <element signature="e#8493#8494#0" expanded="true" />
-            <element signature="e#8844#8845#0" expanded="true" />
-            <element signature="method#loadFromParse#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="e#10144#11295#0" expanded="true" />
-            <element signature="e#10370#11051#0" expanded="true" />
-            <element signature="e#11020#11021#0" expanded="true" />
-            <element signature="e#11284#11285#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2688#3172#0" expanded="true" />
+            <element signature="e#3156#3157#0" expanded="true" />
+            <element signature="e#3661#3972#0" expanded="true" />
+            <element signature="e#3961#3962#0" expanded="true" />
+            <element signature="e#4518#5162#0" expanded="true" />
+            <element signature="e#5151#5152#0" expanded="true" />
+            <element signature="e#5738#6389#0" expanded="true" />
+            <element signature="e#6373#6374#0" expanded="true" />
+            <element signature="e#6815#6858#0" expanded="true" />
+            <element signature="e#6916#6949#0" expanded="true" />
+            <element signature="e#11164#12886#0" expanded="true" />
+            <element signature="e#11655#12552#0" expanded="true" />
+            <element signature="e#12516#12517#0" expanded="true" />
+            <element signature="e#12867#12868#0" expanded="true" />
+            <element signature="e#14649#15262#0" expanded="true" />
+            <element signature="e#15251#15252#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2260,9 +1990,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1292">
           <caret line="59" column="35" selection-start-line="42" selection-start-column="34" selection-end-line="59" selection-end-column="35" />
           <folding>
-            <element signature="e#1106#1128#0" expanded="true" />
-            <element signature="e#1810#1840#0" expanded="true" />
-            <element signature="e#2153#2171#0" expanded="true" />
+            <element signature="e#945#963#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2301,13 +2029,6 @@
       </provider>
       <provider selected="true" editor-type-id="android-designer">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseStarterProjectActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/pencil_48.png">
@@ -2354,16 +2075,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/activity_new_todo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/values-v14/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="472">
@@ -2380,77 +2091,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="453" max-vertical-offset="850">
-          <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/drawable-hdpi/pencil_32.png">
       <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/Todo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="816">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#1994#1995#0" expanded="true" />
-            <element signature="e#2048#2049#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="959" max-vertical-offset="1479">
-          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/DispatchActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="867">
-          <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewTodoActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
-          <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/menu/menu_todo_list.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5736196" vertical-offset="0" max-vertical-offset="663">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="e#230#255#0" expanded="true" />
-            <element signature="e#428#446#0" expanded="true" />
-            <element signature="e#591#611#0" expanded="true" />
-            <element signature="e#809#830#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/list_item_todo.xml">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
     </entry>
@@ -2462,86 +2104,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5904908" vertical-offset="0" max-vertical-offset="1360">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <element signature="e#1106#1128#0" expanded="true" />
-            <element signature="e#1810#1840#0" expanded="true" />
-            <element signature="e#2153#2171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.6981134" vertical-offset="0" max-vertical-offset="969">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/activity_todo_list.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.444445" vertical-offset="0" max-vertical-offset="833">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="e#223#258#0" expanded="true" />
-            <element signature="e#284#319#0" expanded="true" />
-            <element signature="e#343#376#0" expanded="true" />
-            <element signature="e#403#436#0" expanded="true" />
-            <element signature="e#737#760#0" expanded="true" />
-            <element signature="e#1507#1525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/TodoListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.321428" vertical-offset="0" max-vertical-offset="2159">
-          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
-          <folding>
-            <element signature="e#1932#2233#0" expanded="true" />
-            <element signature="e#2222#2223#0" expanded="true" />
-            <element signature="e#2658#2973#0" expanded="true" />
-            <element signature="e#2962#2963#0" expanded="true" />
-            <element signature="method#onResume#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#updateLoggedInInfo#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="e#3623#3687#0" expanded="true" />
-            <element signature="e#3744#3777#0" expanded="true" />
-            <element signature="method#openEditView#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="method#syncTodosToParse#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="e#7201#8863#0" expanded="true" />
-            <element signature="e#7633#8529#0" expanded="true" />
-            <element signature="e#8493#8494#0" expanded="true" />
-            <element signature="e#8844#8845#0" expanded="true" />
-            <element signature="method#loadFromParse#0;class#TodoListActivity#0" expanded="false" />
-            <element signature="e#10144#11295#0" expanded="true" />
-            <element signature="e#10370#11051#0" expanded="true" />
-            <element signature="e#11020#11021#0" expanded="true" />
-            <element signature="e#11284#11285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="119">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.52" vertical-offset="0" max-vertical-offset="884">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -2551,6 +2117,302 @@
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="527">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.964285" vertical-offset="153" max-vertical-offset="1513">
+          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <element signature="e#2833#2867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/menu/menu_show_lists.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#231#256#0" expanded="true" />
+            <element signature="e#434#452#0" expanded="true" />
+            <element signature="e#650#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/activity_new_todo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="680">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/activity_new_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="969">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#223#258#0" expanded="false" />
+            <element signature="e#284#319#0" expanded="false" />
+            <element signature="e#343#376#0" expanded="false" />
+            <element signature="e#403#436#0" expanded="false" />
+            <element signature="e#1059#1080#0" expanded="false" />
+            <element signature="e#1468#1482#0" expanded="false" />
+            <element signature="e#1786#1802#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseStarterProjectActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/activity_show_lists.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.148148" vertical-offset="0" max-vertical-offset="833">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ParseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/sync_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.9259257" vertical-offset="0" max-vertical-offset="289">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/SyncList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="680">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.285714" vertical-offset="714" max-vertical-offset="2244">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2081#3248#0" expanded="true" />
+            <element signature="e#2446#3221#0" expanded="true" />
+            <element signature="e#3193#3194#0" expanded="true" />
+            <element signature="e#3236#3237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/ShowListsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.392858" vertical-offset="2502" max-vertical-offset="5797">
+          <caret line="161" column="23" selection-start-line="161" selection-start-column="18" selection-end-line="161" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2273#2590#0" expanded="true" />
+            <element signature="e#2579#2580#0" expanded="true" />
+            <element signature="e#3175#3506#0" expanded="true" />
+            <element signature="e#3495#3496#0" expanded="true" />
+            <element signature="e#8054#9756#0" expanded="true" />
+            <element signature="e#8518#9418#0" expanded="true" />
+            <element signature="e#9382#9383#0" expanded="true" />
+            <element signature="e#9737#9738#0" expanded="true" />
+            <element signature="e#11052#12233#0" expanded="true" />
+            <element signature="e#11298#11984#0" expanded="true" />
+            <element signature="e#11953#11954#0" expanded="true" />
+            <element signature="e#12222#12223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/menu/menu_todo_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4857143" vertical-offset="0" max-vertical-offset="735">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/DispatchActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="867">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/list_item_todo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.703704" vertical-offset="0" max-vertical-offset="391">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/NewTodoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.714285" vertical-offset="577" max-vertical-offset="2567">
+          <caret line="73" column="65" selection-start-line="73" selection-start-column="65" selection-end-line="73" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1850#2086#0" expanded="true" />
+            <element signature="e#2075#2076#0" expanded="true" />
+            <element signature="e#2512#2795#0" expanded="true" />
+            <element signature="e#2788#2789#0" expanded="true" />
+            <element signature="e#2836#3781#0" expanded="true" />
+            <element signature="e#3369#3769#0" expanded="true" />
+            <element signature="e#3759#3760#0" expanded="true" />
+            <element signature="e#3775#3776#0" expanded="true" />
+            <element signature="e#3819#4080#0" expanded="true" />
+            <element signature="e#4074#4075#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/layout/activity_todo_list.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="1139">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <element signature="e#223#258#0" expanded="true" />
+            <element signature="e#284#319#0" expanded="true" />
+            <element signature="e#343#376#0" expanded="true" />
+            <element signature="e#403#436#0" expanded="true" />
+            <element signature="e#737#760#0" expanded="true" />
+            <element signature="e#1509#1527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/Todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="713" max-vertical-offset="1190">
+          <caret line="94" column="59" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setUuidString#0;class#Todo#0" expanded="false" />
+            <element signature="e#1927#1928#0" expanded="true" />
+            <element signature="e#1978#1979#0" expanded="true" />
+            <element signature="e#2031#2032#0" expanded="true" />
+            <element signature="e#2076#2077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.48" vertical-offset="0" max-vertical-offset="969">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1428">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="e#945#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/SwipeDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/com/parse/starter/TodoListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81352836" vertical-offset="1714" max-vertical-offset="7480">
+          <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2688#3172#0" expanded="true" />
+            <element signature="e#3156#3157#0" expanded="true" />
+            <element signature="e#3661#3972#0" expanded="true" />
+            <element signature="e#3961#3962#0" expanded="true" />
+            <element signature="e#4518#5162#0" expanded="true" />
+            <element signature="e#5151#5152#0" expanded="true" />
+            <element signature="e#5738#6389#0" expanded="true" />
+            <element signature="e#6373#6374#0" expanded="true" />
+            <element signature="e#6815#6858#0" expanded="true" />
+            <element signature="e#6916#6949#0" expanded="true" />
+            <element signature="e#11164#12886#0" expanded="true" />
+            <element signature="e#11655#12552#0" expanded="true" />
+            <element signature="e#12516#12517#0" expanded="true" />
+            <element signature="e#12867#12868#0" expanded="true" />
+            <element signature="e#14649#15262#0" expanded="true" />
+            <element signature="e#15251#15252#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
