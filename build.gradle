@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 apply plugin: 'com.android.application'
 apply plugin: 'com.parse'
 
@@ -49,7 +49,7 @@ parse {
   uploadSymbols true
 }
 */
-=======
+
 
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
@@ -75,4 +75,4 @@ ext {
     minSdkVersion = 9
     targetSdkVersion = 22
 }
->>>>>>> 141db0e2e3197fcde3fe7f524db9e3c8528adc68
+
